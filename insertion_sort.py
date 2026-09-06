@@ -27,3 +27,9 @@ more_numbers = [10, 7, 12, 3, 8]
 print("\nSecond test array:", more_numbers)
 insertion_sort_decreasing(more_numbers)
 print("Decreasing order:", more_numbers)
+# Third test case
+test_numbers = [20, 5, 15, 10, 25]
+
+print("\nThird test array:", test_numbers)
+insertion_sort_decreasing(test_numbers)
+print("Decreasing order:", test_numbers)
